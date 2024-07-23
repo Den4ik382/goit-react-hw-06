@@ -1,0 +1,16 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  gap: 10px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+.boxInput {
+  display: flex;
+  flex-direction: column;
+}
+.btn {
+}
